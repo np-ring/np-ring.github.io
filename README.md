@@ -1,1 +1,0 @@
-# np-ring.github.io
